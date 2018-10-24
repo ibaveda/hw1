@@ -1,0 +1,93 @@
+.container {
+    background: rgb(70, 68, 68);
+}
+
+.header {
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    margin-bottom: 10px;
+    color: black;
+    text-align: center;
+    line-height: 80px;
+}
+
+.nav {
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    margin-bottom: 30px;
+    color: black;
+    text-align: center;
+    line-height: 80px;
+}
+
+.main {
+    float: left;
+    width: 50%
+}
+
+.section {
+    clear: both;
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    width: 92%;
+    text-align: center;
+    line-height: 8.4;
+}
+
+.full {
+    background: rgb(70, 68, 68);
+}
+
+.article {
+    background: rgb(70, 68, 68);
+    padding: 20px;
+    width: 88%;
+    margin: 10px;
+    line-height: 1;
+    
+}
+
+.heading {
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    /* width: 88%; */
+    margin: 10px;
+    line-height: 2;
+
+}
+
+.paragraph {
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    /* width: 88%; */
+    margin: 10px;
+    line-height: 2;
+    border-bottom: 10px solid rgb(70, 68, 68);
+}
+
+.secondary {
+    float: left;
+    width: 50%
+}
+
+.aside {
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    text-align: center;
+    width: 93%;
+    margin-bottom: 30px; 
+    line-height: 28;
+
+    
+    
+}
+
+.footer {
+    clear: both;
+    overflow: auto;
+    background: rgb(214, 212, 212);
+    padding: 20px;
+    text-align: center;
+    line-height: 70px;
+    margin-top: 30px;
+}
